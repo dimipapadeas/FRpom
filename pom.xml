@@ -6,8 +6,8 @@
     <version>1</version>
     <name>ForgeRock-build-deploy</name>
     <modules>
-        <module>forgerock-parent-public</module>
-		<module>forgerock-build-tools-public</module>
+        <module>../forgerock-parent-public</module>
+	<module>../forgerock-build-tools-public</module>
     </modules>
     <build>
         <extensions>
